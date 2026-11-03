@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and this repository."
+title: "SpecID: spectral identifiability of olivine-pyroxene mixtures (code and data)"
+version: 1.0.0
+date-released: 2026-11-02
+authors:
+  - family-names: Khairbek
+    given-names: Ali A.
+    orcid: https://orcid.org/0000-0002-0477-5896
+    affiliation: "Department of Mechanical Engineering, University Centre for Research & Development, Chandigarh University, Gharuan, Mohali, Punjab, India"
+license: MIT
+repository-code: https://github.com/alikhairbek/specid
+preferred-citation:
+  type: article
+  title: "How much mineralogy does a reflectance spectrum hold? Information limits, distribution-free uncertainty and optimal band selection for olivine-pyroxene mixtures from the laboratory to the telescope"
+  authors:
+    - family-names: Khairbek
+      given-names: Ali A.
+  year: 2026
+  journal: "ACS Earth and Space Chemistry (submitted)"
